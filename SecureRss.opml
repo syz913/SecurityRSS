@@ -10,7 +10,6 @@
             <outline title="The PhishLabs Blog" xmlUrl="http://blog.phishlabs.com/rss.xml" type="rss" text="The PhishLabs Blog"/>
             <outline title="Cofense" xmlUrl="http://blog.phishme.com/feed/" type="rss" text="Cofense"/>
             <outline title="Radware Blog" xmlUrl="http://blog.radware.com/feed/" type="rss" text="Radware Blog"/>
-            <outline title="Tenable Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" type="rss" text="Tenable Blog"/>
             <outline title="Trail of Bits Blog" xmlUrl="http://blog.trailofbits.com/feed/" type="rss" text="Trail of Bits Blog"/>
             <outline title="Zimperium Mobile Security Blog" xmlUrl="http://blog.zimperium.com/feed/" type="rss" text="Zimperium Mobile Security Blog"/>
             <outline title="AWS Security Blog" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" type="rss" text="AWS Security Blog"/>
